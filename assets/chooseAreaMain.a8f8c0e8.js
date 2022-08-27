@@ -1,0 +1,1 @@
+import{e as a,p as c,H as s,o as t,J as r}from"./index.b4f09999.js";const m=a({__name:"chooseAreaMain",setup(_){function o(e){console.log(e)}return(e,p)=>{const n=r("choose-area");return t(),c("div",null,[s(n,{onChange:o})])}}});export{m as default};
